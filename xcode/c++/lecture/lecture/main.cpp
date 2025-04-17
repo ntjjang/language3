@@ -1,14 +1,8 @@
-//
-//  main.cpp
-//  lecture
-//
-//  Created by 박종덕 on 4/17/25.
-//
-
 #include <iostream>
+#include <cstdio>
+using namespace std;
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+int main(){
+    
     return 0;
 }
